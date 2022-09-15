@@ -22,3 +22,6 @@ urlpatterns = [
     path('', include('users.urls')),
 
 ]
+
+
+# Demo
